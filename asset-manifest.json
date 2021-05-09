@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/covid_india_data/static/css/main.d5e15f1a.chunk.css",
+    "main.js": "/covid_india_data/static/js/main.103a4a2d.chunk.js",
+    "main.js.map": "/covid_india_data/static/js/main.103a4a2d.chunk.js.map",
+    "runtime-main.js": "/covid_india_data/static/js/runtime-main.64637cf7.js",
+    "runtime-main.js.map": "/covid_india_data/static/js/runtime-main.64637cf7.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/covid_india_data/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.5102ecde.chunk.js": "/covid_india_data/static/js/2.5102ecde.chunk.js",
+    "static/js/2.5102ecde.chunk.js.map": "/covid_india_data/static/js/2.5102ecde.chunk.js.map",
+    "static/js/3.2a3c6026.chunk.js": "/covid_india_data/static/js/3.2a3c6026.chunk.js",
+    "static/js/3.2a3c6026.chunk.js.map": "/covid_india_data/static/js/3.2a3c6026.chunk.js.map",
+    "index.html": "/covid_india_data/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/covid_india_data/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.d5e15f1a.chunk.css.map": "/covid_india_data/static/css/main.d5e15f1a.chunk.css.map",
+    "static/js/2.5102ecde.chunk.js.LICENSE.txt": "/covid_india_data/static/js/2.5102ecde.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64637cf7.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.5102ecde.chunk.js",
+    "static/css/main.d5e15f1a.chunk.css",
+    "static/js/main.103a4a2d.chunk.js"
+  ]
+}
